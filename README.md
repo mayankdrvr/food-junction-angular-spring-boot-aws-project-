@@ -1,6 +1,6 @@
 # Food Junction Angular Spring Boot AWS Project
 Food Delivery App is a full-stack web application built with Angular, Spring Boot, and MongoDB, deployed on AWS using Kubernetes. The app allows users to view menu items and place orders — all in real-time.
-# AWS cloud hosting is expensive. Hence, deployed project is paused. It can be made live on request. Here is a demo video of the project - 
+## AWS cloud hosting is expensive. Hence, deployed project is paused. It can be made live on request. Here is a demo video of the project - 
 https://drive.google.com/file/d/1ySycRrWrGmZ3CliceqeA71mEW4oQVbwr/view?usp=sharing
 
 ### Project Files in Github Organisation page - https://github.com/Ecommerce-Project20
