@@ -25,7 +25,7 @@ Frontend: Angular
 
 Backend: Spring Boot (Java) microservices
 
-Database: MongoDB Atlas
+Database: AWS RDS(SQL), MongoDB Atlas(NoSQL)
 
 Containerization: Docker
 
