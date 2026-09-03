@@ -1,6 +1,6 @@
-package com.codedecode.foodcatalogue.dto;
+package foodcatalogue.dto;
 
-import com.codedecode.foodcatalogue.entity.FoodItem;
+import foodcatalogue.entity.FoodItem;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

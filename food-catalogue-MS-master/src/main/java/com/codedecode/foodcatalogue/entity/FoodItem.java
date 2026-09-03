@@ -1,4 +1,4 @@
-package com.codedecode.foodcatalogue.entity;
+package foodcatalogue.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

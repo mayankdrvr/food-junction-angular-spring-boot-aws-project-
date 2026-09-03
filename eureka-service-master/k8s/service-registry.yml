@@ -50,7 +50,7 @@ spec:
     spec:
       containers:
         - name: eureka
-          image: codedecode25/eureka:latest
+          image: eureka:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8761

@@ -1,8 +1,8 @@
-package com.codedecode.foodcatalogue.mapper;
+package foodcatalogue.mapper;
 
 
-import com.codedecode.foodcatalogue.dto.FoodItemDTO;
-import com.codedecode.foodcatalogue.entity.FoodItem;
+import foodcatalogue.dto.FoodItemDTO;
+import foodcatalogue.entity.FoodItem;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

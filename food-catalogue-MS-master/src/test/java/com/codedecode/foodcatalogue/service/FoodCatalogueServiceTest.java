@@ -1,11 +1,11 @@
-package com.codedecode.foodcatalogue.service;
+package foodcatalogue.service;
 
-import com.codedecode.foodcatalogue.dto.FoodCataloguePage;
-import com.codedecode.foodcatalogue.dto.FoodItemDTO;
-import com.codedecode.foodcatalogue.dto.Restaurant;
-import com.codedecode.foodcatalogue.entity.FoodItem;
-import com.codedecode.foodcatalogue.mapper.FoodItemMapper;
-import com.codedecode.foodcatalogue.repo.FoodItemRepo;
+import foodcatalogue.dto.FoodCataloguePage;
+import foodcatalogue.dto.FoodItemDTO;
+import foodcatalogue.dto.Restaurant;
+import foodcatalogue.entity.FoodItem;
+import foodcatalogue.mapper.FoodItemMapper;
+import foodcatalogue.repo.FoodItemRepo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,9 +1,9 @@
-package com.codedecode.foodcatalogue.controller;
+package foodcatalogue.controller;
 
 
-import com.codedecode.foodcatalogue.dto.FoodCataloguePage;
-import com.codedecode.foodcatalogue.dto.FoodItemDTO;
-import com.codedecode.foodcatalogue.service.FoodCatalogueService;
+import foodcatalogue.dto.FoodCataloguePage;
+import foodcatalogue.dto.FoodItemDTO;
+import foodcatalogue.service.FoodCatalogueService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

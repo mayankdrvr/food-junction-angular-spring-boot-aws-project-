@@ -1,4 +1,4 @@
-package com.codedecode.foodcatalogue;
+package foodcatalogue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

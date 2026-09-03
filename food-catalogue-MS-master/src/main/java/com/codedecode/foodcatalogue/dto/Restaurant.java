@@ -1,4 +1,4 @@
-package com.codedecode.foodcatalogue.dto;
+package foodcatalogue.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

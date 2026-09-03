@@ -1,6 +1,6 @@
-package com.codedecode.foodcatalogue.repo;
+package foodcatalogue.repo;
 
-import com.codedecode.foodcatalogue.entity.FoodItem;
+import foodcatalogue.entity.FoodItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
