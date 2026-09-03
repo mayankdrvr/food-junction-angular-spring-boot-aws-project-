@@ -1,8 +1,8 @@
-package com.codedecode.order.mapper;
+package order.mapper;
 
 
-import com.codedecode.order.dto.OrderDTO;
-import com.codedecode.order.entity.Order;
+import order.dto.OrderDTO;
+import order.entity.Order;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

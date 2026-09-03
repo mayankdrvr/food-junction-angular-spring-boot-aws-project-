@@ -1,11 +1,11 @@
-package com.codedecode.order.service;
+package order.service;
 
-import com.codedecode.order.dto.OrderDTO;
-import com.codedecode.order.dto.OrderDTOFromFE;
-import com.codedecode.order.dto.UserDTO;
-import com.codedecode.order.entity.Order;
-import com.codedecode.order.mapper.OrderMapper;
-import com.codedecode.order.repo.OrderRepo;
+import order.dto.OrderDTO;
+import order.dto.OrderDTOFromFE;
+import order.dto.UserDTO;
+import order.entity.Order;
+import order.mapper.OrderMapper;
+import order.repo.OrderRepo;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

@@ -8,7 +8,7 @@
 		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.codedecode</groupId>
+	<groupId></groupId>
 	<artifactId>order</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OrderMS</name>
@@ -16,9 +16,9 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.7</spring-cloud.version>
-		<sonar.exclusions> **/com/codedecode/order/service/SequenceGenerator.java,
-			**/com/codedecode/order/repo/** , **/com/codedecode/order/dto/** , **/com/codedecode/order/mapper/** ,
-			**/com/codedecode/order/entity/** , **/com/codedecode/order/OrderMsApplication.java
+		<sonar.exclusions> **/com/order/service/SequenceGenerator.java,
+			**/com/order/repo/** , **/com/order/dto/** , **/com/order/mapper/** ,
+			**/com/order/entity/** , **/com/order/OrderMsApplication.java
 		</sonar.exclusions>
 
 	</properties>

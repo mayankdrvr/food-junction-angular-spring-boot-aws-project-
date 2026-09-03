@@ -1,9 +1,9 @@
-package com.codedecode.order.entity;
+package order.entity;
 
 
-import com.codedecode.order.dto.FoodItemsDTO;
-import com.codedecode.order.dto.Restaurant;
-import com.codedecode.order.dto.UserDTO;
+import order.dto.FoodItemsDTO;
+import order.dto.Restaurant;
+import order.dto.UserDTO;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

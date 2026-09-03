@@ -1,4 +1,4 @@
-package com.codedecode.order.entity;
+package order.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
