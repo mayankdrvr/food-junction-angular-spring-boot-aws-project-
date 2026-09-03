@@ -1,9 +1,9 @@
-package com.codedecode.userinfo.service;
+package userinfo.service;
 
-import com.codedecode.userinfo.dto.UserDTO;
-import com.codedecode.userinfo.entity.User;
-import com.codedecode.userinfo.mapper.UserMapper;
-import com.codedecode.userinfo.repo.UserRepo;
+import userinfo.dto.UserDTO;
+import userinfo.entity.User;
+import userinfo.mapper.UserMapper;
+import userinfo.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

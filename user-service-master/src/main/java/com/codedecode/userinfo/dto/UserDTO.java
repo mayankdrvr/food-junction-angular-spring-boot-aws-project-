@@ -1,4 +1,4 @@
-package com.codedecode.userinfo.dto;
+package userinfo.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

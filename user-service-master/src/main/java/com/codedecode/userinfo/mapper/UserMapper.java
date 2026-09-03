@@ -1,7 +1,7 @@
-package com.codedecode.userinfo.mapper;
+package userinfo.mapper;
 
-import com.codedecode.userinfo.dto.UserDTO;
-import com.codedecode.userinfo.entity.User;
+import userinfo.dto.UserDTO;
+import userinfo.entity.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

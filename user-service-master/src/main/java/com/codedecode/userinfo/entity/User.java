@@ -1,4 +1,4 @@
-package com.codedecode.userinfo.entity;
+package userinfo.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
