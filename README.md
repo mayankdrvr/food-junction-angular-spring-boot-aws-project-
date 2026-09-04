@@ -4,7 +4,7 @@ Food Delivery App is a full-stack web application built with Angular, Spring Boo
 https://drive.google.com/file/d/1ySycRrWrGmZ3CliceqeA71mEW4oQVbwr/view?usp=sharing
 https://www.youtube.com/watch?v=PTJa8ZejDXw
 
-### Project Files in Github Organisation page - https://github.com/Ecommerce-Project20
+
 
 # Features
 
